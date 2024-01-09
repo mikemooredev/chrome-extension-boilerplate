@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+  inline-size: 550px;
+  overflow-y: auto;
+}
+
+iframe {
+  border: 0 none;
+  inline-size: 100%;
+}
